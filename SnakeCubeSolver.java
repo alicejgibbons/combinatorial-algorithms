@@ -2,8 +2,8 @@
 *	Alice Gibbons
 * 	Nov. 4, 2015
 *	
-*	Run Like: java SnakeCubeSolver SSESESESEEEESESEEESEESEEESS	
-*								   SSEEESEESEEESESEEEESESESESS
+*	Run Like: java SnakeCubeSolver SSESESESEEEESESEEESEESEEESS
+* 	where S represents a straight connector piece and E represents an Elbow connector piece in the Snake
 */
 
 import java.util.ArrayList;
